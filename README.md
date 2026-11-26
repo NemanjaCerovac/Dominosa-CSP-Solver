@@ -1,13 +1,13 @@
+# Dominosa CSP Solver
 
+A university project developed as part of the
+Introduction to Artificial Intelligence course at TU Berlin.
 
-## Programm starten
+The goal was to solve Dominosa puzzles by modeling them
+as Constraint Satisfaction Problems (CSPs).
 
-Das Programm wurde in Python 3 implementiert.
+The experiments demonstrate how the MRV heuristic
+can significantly reduce the search effort required
+to solve complex puzzles.
 
-Im Terminal in den Aufgabenordner wechseln:
-
-`cd Aufgabe2-Dominosa`
-
-Danach das Programm starten:
-
-`python main.py`
+Originally developed on TU Berlin's GitLab.
